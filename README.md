@@ -4,9 +4,6 @@ Este proyecto describe el diseño de un contador de milisegundos mediante el uso
 En el folder "implementation" se encuentran los archivos fuente y de simulación, de los diferentes módulos utilizados para el diseño planteado. Asimismo, en el archivo "design.pdf" se encuentra una explicación detallada de la solución, y se muestran los diagramas de los circuitos diseñados.
 
 Colaboradores:
-
-  Jose Fabio Navarro Naranjo
-  
-  Adrián Dittel Retana
-  
-  Gabriel González Rodríguez
+- Jose Fabio Navarro Naranjo
+- Adrián Dittel Retana
+- Gabriel González Rodríguez
